@@ -1,0 +1,24 @@
+# test1
+*.log
+*.exe
+*.so
+
+# Folders
+_obj
+_test
+
+#test2
+*.[568vq]
+[123].tar.gz
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+log.*
+
+_testmain.go
+
+*.exe
+*.test
+*.prof
